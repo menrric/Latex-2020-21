@@ -20,24 +20,17 @@
 \author{} %Autores separados con \and
 \date{\vspace{-5ex}
 
-\title{} %titulo
-\vspace{0.4cm}  %Vertical space 
-\hrule %linea horiozontal
-\vspace{0.2cm}
-\hrule }
-\author{}
-\date{\vspace{-5ex}} %Para no poner fecha, si quieres ponerla quita el \vspace
 \begin{document}
-\maketitle{}
+\maketitle{} %titulo
 
 
 
 \newpage
-\tableofcontents
+\tableofcontents %índice
 
 \newpage
-\listoftables
-\listoffigures
+\listoftables %Indice de tablas
+\listoffigures %Indice de figuras
 \end{document}
 ```
 
