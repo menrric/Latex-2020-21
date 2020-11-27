@@ -1,4 +1,5 @@
-\documentclass[a4paper,10pt, onecolumn]{article}
+```
+\documentclass[a4paper,10pt, onecolumn]{article} \\
 \usepackage[spanish,es-tabla]{babel}
 \usepackage{graphicx}
 \usepackage[a4paper,total={6.5in, 8in}]{geometry}
@@ -28,4 +29,5 @@
 \listoftables
 \listoffigures
 \end{document}
+```
 
