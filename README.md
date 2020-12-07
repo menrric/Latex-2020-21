@@ -18,7 +18,7 @@
 \vspace{0.2cm}
 \hrule }
 \author{} %Autores separados con \and
-\date{\vspace{-5ex}
+\date{\vspace{-5ex}}
 
 \begin{document}
 \maketitle{} %titulo
